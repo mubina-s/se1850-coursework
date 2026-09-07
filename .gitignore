@@ -1,0 +1,44 @@
+# Compiled C/C++ files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+~$*
+
+# Build directories
+build/
+dist/
+out/
+
+# Sensitive/local configuration
+.env
+.env.*
+*.key
+*.pem
